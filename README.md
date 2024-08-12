@@ -2,7 +2,9 @@
 
 ## If you found this repo useful, give it a STAR 🌠
 
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
+
+
+->python packages has issue loading so added "ENV PIP_BREAK_SYSTEM_PACKAGES 1" whc solved the issue of Python dependencies which suggested to use virtual environment
 
 
 ## What is a container ?
